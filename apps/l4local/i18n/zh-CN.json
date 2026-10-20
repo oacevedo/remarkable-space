@@ -1,0 +1,10 @@
+{
+  "title": "服务",
+  "ok": "正常",
+  "broken": "故障",
+  "unknown": "未知",
+  "loading": "加载中…",
+  "offline": "连不上 tools.l4local.net",
+  "n_ok": "{n} 正常",
+  "n_broken": "{n} 故障"
+}

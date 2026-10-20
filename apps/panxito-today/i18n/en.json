@@ -1,0 +1,11 @@
+{
+  "title": "Today",
+  "loading": "Loading…",
+  "agenda_empty": "Nothing on the calendar.",
+  "reminders_empty": "No overdue reminders.",
+  "section_agenda": "Agenda",
+  "section_reminders": "Overdue",
+  "section_weather": "Miami",
+  "error_offline": "Panxito backend unreachable. Check Tailscale.",
+  "refresh": "Refresh"
+}

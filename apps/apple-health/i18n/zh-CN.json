@@ -1,0 +1,11 @@
+{
+  "title": "健康",
+  "steps": "步数",
+  "resting_hr": "静息心率",
+  "last_workout": "最近锻炼",
+  "bpm": "次/分",
+  "none": "—",
+  "loading": "加载中…",
+  "offline": "连不上 health.l4local.net",
+  "stale": "过期 {h} 小时"
+}

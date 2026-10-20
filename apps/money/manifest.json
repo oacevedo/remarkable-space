@@ -1,0 +1,14 @@
+{
+  "id": "money",
+  "name": "资金",
+  "name_en": "Money",
+  "version": "0.1.0",
+  "description": "Chase 账户余额 (via SimpleFin)",
+  "icon": "icon.svg",
+  "entry": "main.qml",
+  "widget": "widget.qml",
+  "widget_size": "half",
+  "category": "tool",
+  "order": 11,
+  "arch": []
+}

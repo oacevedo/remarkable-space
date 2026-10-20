@@ -1,0 +1,14 @@
+{
+  "id": "flap",
+  "name": "Flap",
+  "name_en": "Flap",
+  "version": "0.1.0",
+  "description": "flap.l4local.net 公共留言板",
+  "icon": "icon.svg",
+  "entry": "main.qml",
+  "widget": "widget.qml",
+  "widget_size": "half",
+  "category": "tool",
+  "order": 12,
+  "arch": []
+}

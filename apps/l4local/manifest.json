@@ -1,0 +1,14 @@
+{
+  "id": "l4local",
+  "name": "服务",
+  "name_en": "Services",
+  "version": "0.1.0",
+  "description": "自建服务健康状况 (tools.l4local.net)",
+  "icon": "icon.svg",
+  "entry": "main.qml",
+  "widget": "widget.qml",
+  "widget_size": "half",
+  "category": "tool",
+  "order": 13,
+  "arch": []
+}

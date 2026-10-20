@@ -1,0 +1,14 @@
+{
+  "id": "apple-health",
+  "name": "健康",
+  "name_en": "Health",
+  "version": "0.1.0",
+  "description": "步数、静息心率、最近锻炼",
+  "icon": "icon.svg",
+  "entry": "main.qml",
+  "widget": "widget.qml",
+  "widget_size": "half",
+  "category": "tool",
+  "order": 10,
+  "arch": []
+}

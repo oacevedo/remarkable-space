@@ -1,0 +1,10 @@
+{
+  "title": "Services",
+  "ok": "ok",
+  "broken": "broken",
+  "unknown": "?",
+  "loading": "Loading…",
+  "offline": "tools.l4local.net unreachable",
+  "n_ok": "{n} ok",
+  "n_broken": "{n} broken"
+}

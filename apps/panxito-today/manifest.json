@@ -1,0 +1,15 @@
+{
+  "id": "panxito-today",
+  "name": "今天",
+  "name_en": "Today",
+  "version": "0.1.0",
+  "description": "今日议程、提醒和天气，来自 Panxito 后端",
+  "icon": "icon.svg",
+  "entry": "main.qml",
+  "widget": "widget.qml",
+  "widget_size": "hero",
+  "widget_slot": "plan",
+  "category": "tool",
+  "order": 1,
+  "arch": []
+}

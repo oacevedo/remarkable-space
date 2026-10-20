@@ -1,0 +1,11 @@
+{
+  "title": "今天",
+  "loading": "加载中…",
+  "agenda_empty": "日历上没有安排。",
+  "reminders_empty": "没有过期提醒。",
+  "section_agenda": "日程",
+  "section_reminders": "过期",
+  "section_weather": "迈阿密",
+  "error_offline": "连不上 Panxito 后端，检查 Tailscale。",
+  "refresh": "刷新"
+}

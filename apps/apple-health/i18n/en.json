@@ -1,0 +1,11 @@
+{
+  "title": "Health",
+  "steps": "Steps",
+  "resting_hr": "Resting HR",
+  "last_workout": "Last workout",
+  "bpm": "bpm",
+  "none": "—",
+  "loading": "Loading…",
+  "offline": "health.l4local.net unreachable",
+  "stale": "stale {h}h"
+}
