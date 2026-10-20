@@ -1,5 +1,7 @@
 # 空间 (SPACE) — rmkit-cn 启动台
 
+中文 · [English](docs-space-README.en.md)
+
 「空间」是 reMarkable 上属于你的数字空间：一个首页（时间、天气、今日计划、正在进行）、一组应用、一个应用商店。
 它取代原来的「高级」面板，成为 rmkit-cn 所有功能的统一入口。
 

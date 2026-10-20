@@ -1,5 +1,7 @@
 # 空间助手
 
+中文 · [English](README.en.md)
+
 Mac / Windows 上的桌面程序，USB 直连 reMarkable，一次把「空间」连同它依赖的底座装好。
 
 纯 Go 的 SSH 直连，没有服务器，不上传任何东西。每条在设备上执行的命令、每个写入的文件

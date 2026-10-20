@@ -1,5 +1,7 @@
 # 应用商店的客户端标识
 
+中文 · [English](docs-store-key.en.md)
+
 让「空间」之外的东西拿不到商店索引：用浏览器打开 `https://boangs.com/rmkit-space/index.json`
 看到的是 404，只有设备上的 space-server 能取到内容。
 
